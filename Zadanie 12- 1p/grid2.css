@@ -1,0 +1,45 @@
+.logo {
+    border: 1px solid green;
+}
+
+.nawigacja {
+    border: 1px solid green;
+}
+
+.wszukiwarka {
+    border: 1px solid green;
+}
+
+.nawigacja-boczna {
+    border: 1px solid red;
+}
+
+.artykul {
+    border: 1px solid red;
+}
+
+.panel {
+    border: 1px solid red;
+}
+
+.kolumna1,.kolumna2,.kolumna3 {
+    border: 1px solid blue;
+}
+
+.sekcja {
+    border: 1px solid green;
+    
+}
+
+.stopka {
+    border: 1px solid grey;
+}
+
+
+
+.stopka1, .stopka2, .stopka3 {
+    border: 1px solid orange;
+}
+
+
+

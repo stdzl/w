@@ -1,0 +1,64 @@
+.baner {
+    background-color: #3180FF;
+    color: white;
+    text-align: center;
+    height: 80px;
+    
+}
+
+
+.pierwszy,.drugi,.trzeci,.czwarty {
+    font-family: Arial;
+    background-color: #A8A8A8;
+    color: white;
+    text-align: center;
+    width: 25%;
+    height: 150px;
+    float: left;
+    
+}
+
+
+
+.lewy {
+    background-color:  #8EB9FF;
+    width: 30%;
+    height: 600px;  
+    float: left;
+}
+.prawy {
+    background-color:  #8EB9FF;
+    width: 30%;
+    height: 600px;
+    float: left;
+    
+}
+
+.srodkowy {
+    background-color: #FFFFFF;
+    width: 40%;
+    height: 600px;
+    text-align: center;
+    float: left;
+}
+
+.stopka {
+    background-color:  #A8A8A8;
+    color: white;
+    text-align: right;
+    clear: both;
+}
+
+
+table, th, td {
+    border: 1px solid #3180FF;
+    text-align: center;
+  }
+
+
+.przycisk {
+    padding: 10px;
+    background-color: #3180FF;
+    color: white;
+    border-style: hidden;
+}
